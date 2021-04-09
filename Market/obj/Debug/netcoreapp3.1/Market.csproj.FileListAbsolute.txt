@@ -1,0 +1,13 @@
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.csproj.CoreCompileInputs.cache
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.exe
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.dll
+C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.pdb
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.dll
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.pdb
+C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.genruntimeconfig.cache
