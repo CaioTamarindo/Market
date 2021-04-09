@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Globalization;
 
 namespace Market.Entities {
     class OrderItem {
@@ -18,6 +16,15 @@ namespace Market.Entities {
         }
         public double SubTotal() {
             return Price * Quantity;
+        }
+        public override string ToString() {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }

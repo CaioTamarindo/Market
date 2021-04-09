@@ -1,6 +1,7 @@
 ﻿using System;
 using Market.Entities;
 using Market.Entities.Enums;
+using System.Globalization;
 
 namespace Market {
     class Program {
@@ -38,8 +39,9 @@ namespace Market {
                 order.AddItem(orderItem);
             }
 
-            Console.WriteLine(order);
-            Console.WriteLine(order.Total());
+            Console.Write(order);
+            Console.Write(order.Total().ToString(CultureInfo.InvariantCulture));
+            Console.WriteLine();
 
         }
     }

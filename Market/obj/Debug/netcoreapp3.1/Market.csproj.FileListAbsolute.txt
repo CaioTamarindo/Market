@@ -11,3 +11,16 @@ C:\Users\tamar\source\repos\Market\Market\bin\Debug\netcoreapp3.1\Market.pdb
 C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.dll
 C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.pdb
 C:\Users\tamar\source\repos\Market\Market\obj\Debug\netcoreapp3.1\Market.genruntimeconfig.cache
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.exe
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.dll
+C:\Clone\Market\Market\bin\Debug\netcoreapp3.1\Market.pdb
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.csproj.CoreCompileInputs.cache
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.dll
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.pdb
+C:\Clone\Market\Market\obj\Debug\netcoreapp3.1\Market.genruntimeconfig.cache
